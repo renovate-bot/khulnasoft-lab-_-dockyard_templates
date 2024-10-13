@@ -765,17 +765,17 @@ https://codeberg.org/alicia/portainer-templates/raw/branch/main/templates.json
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/khulnasoft-bot">
-                    <img src="https://avatars.githubusercontent.com/u/43526132?v=4" width="80;" alt="khulnasoft-bot"/>
-                    <br />
-                    <sub><b>Alicia Bot</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/renovate-bot">
                     <img src="https://avatars.githubusercontent.com/u/25180681?v=4" width="80;" alt="renovate-bot"/>
                     <br />
                     <sub><b>Mend Renovate</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/khulnasoft-bot">
+                    <img src="https://avatars.githubusercontent.com/u/43526132?v=4" width="80;" alt="khulnasoft-bot"/>
+                    <br />
+                    <sub><b>Alicia Bot</b></sub>
                 </a>
             </td>
 		</tr>
