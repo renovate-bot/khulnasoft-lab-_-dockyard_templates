@@ -685,13 +685,6 @@ https://codeberg.org/alicia/portainer-templates/raw/branch/main/templates.json
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/gitworkflows">
-                    <img src="https://avatars.githubusercontent.com/u/118260833?v=4" width="80;" alt="gitworkflows"/>
-                    <br />
-                    <sub><b>gitworkflows</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/renovate-bot">
                     <img src="https://avatars.githubusercontent.com/u/25180681?v=4" width="80;" alt="renovate-bot"/>
                     <br />
